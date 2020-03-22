@@ -4,7 +4,8 @@
   "description": "Dummy data for customer",
   "main": "index.js",
   "scripts": {
-    "json:server": "json-server --watch db.json"
+    "json:server": "json-server --watch db.json",
+    "start": "json-server --watch db.json"
   },
   "author": "Hendy",
   "license": "ISC",

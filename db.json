@@ -5,84 +5,170 @@
       "name": "Tampan",
       "email": "tomposon@gmail.com",
       "age": 23,
-      "city": "Bantul, Yogyakarta"
+      "city": "Bantul, Yogyakarta",
+      "cart": [
+        {
+          "goods": "Xiaomi 1A",
+          "total": 4
+        }
+      ]
     },
     {
       "id": 2,
       "name": "Tomposon",
       "email": "tomposon@gmail.com",
       "age": 23,
-      "city": "Bantul, Yogyakarta"
+      "city": "Bantul, Yogyakarta",
+      "cart": [
+        {
+          "goods": "Xiaomi 1A",
+          "total": 4
+        }
+      ]
     },
     {
       "id": 3,
       "name": "Tomposon",
       "email": "tomposon@gmail.com",
       "age": 23,
-      "city": "Bantul, Yogyakarta"
+      "city": "Bantul, Yogyakarta",
+      "cart": [
+        {
+          "goods": "Xiaomi 1A",
+          "total": 4
+        }
+      ]
     },
     {
       "id": 4,
       "name": "Tomposon",
       "email": "tomposon@gmail.com",
       "age": 23,
-      "city": "Bantul, Yogyakarta"
+      "city": "Bantul, Yogyakarta",
+      "cart": [
+        {
+          "goods": "Xiaomi 1A",
+          "total": 4
+        }
+      ]
     },
     {
       "id": 5,
       "name": "Tomposon",
       "email": "tomposon@gmail.com",
       "age": 23,
-      "city": "Bantul, Yogyakarta"
+      "city": "Bantul, Yogyakarta",
+      "cart": [
+        {
+          "goods": "Xiaomi 1A",
+          "total": 4
+        }
+      ]
     },
     {
       "id": 6,
       "name": "Tomposon",
       "email": "tomposon@gmail.com",
       "age": 23,
-      "city": "Bantul, Yogyakarta"
+      "city": "Bantul, Yogyakarta",
+      "cart": [
+        {
+          "goods": "Xiaomi 1A",
+          "total": 4
+        }
+      ]
     },
     {
       "id": 7,
       "name": "Tomposon",
       "email": "tomposon@gmail.com",
       "age": 23,
-      "city": "Bantul, Yogyakarta"
+      "city": "Bantul, Yogyakarta",
+      "cart": [
+        {
+          "goods": "Xiaomi 1A",
+          "total": 4
+        }
+      ]
     },
     {
       "id": 8,
       "name": "Tomposon",
       "email": "tomposon@gmail.com",
       "age": 23,
-      "city": "Bantul, Yogyakarta"
+      "city": "Bantul, Yogyakarta",
+      "cart": [
+        {
+          "goods": "Xiaomi 1A",
+          "total": 4
+        }
+      ]
     },
     {
       "id": 9,
       "name": "Tomposon",
       "email": "tomposon@gmail.com",
       "age": 23,
-      "city": "Bantul, Yogyakarta"
+      "city": "Bantul, Yogyakarta",
+      "cart": [
+        {
+          "goods": "Xiaomi 1A",
+          "total": 4
+        }
+      ]
     },
     {
       "id": 10,
       "name": "Tomposon",
       "email": "tomposon@gmail.com",
       "age": 23,
-      "city": "Bantul, Yogyakarta"
+      "city": "Bantul, Yogyakarta",
+      "cart": [
+        {
+          "goods": "Xiaomi 1A",
+          "total": 4
+        }
+      ]
     },
     {
       "id": 11,
       "name": "Tomposon",
       "email": "tomposon@gmail.com",
       "age": 23,
-      "city": "Bantul, Yogyakarta"
+      "city": "Bantul, Yogyakarta",
+      "cart": [
+        {
+          "goods": "Xiaomi 1A",
+          "total": 4
+        }
+      ]
     },
     {
       "id": 12,
       "name": "Tomposon",
       "email": "tomposon@gmail.com",
       "age": 23,
-      "city": "Bantul, Yogyakarta"
+      "city": "Bantul, Yogyakarta",
+      "cart": [
+        {
+          "goods": "Xiaomi 1A",
+          "total": 4
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "hendy",
+      "email": "mochammad.lazuardi@students.amikom.ac.id",
+      "age": 33,
+      "city": "Yogyakarta"
+    },
+    {
+      "id": 14,
+      "name": "hendy",
+      "email": "mochammad.lazuardi@students.amikom.ac.id",
+      "age": 33,
+      "city": "Jogja"
     }
   ],
   "cart": [

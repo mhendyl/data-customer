@@ -155,20 +155,6 @@
           "total": 4
         }
       ]
-    },
-    {
-      "id": 13,
-      "name": "hendy",
-      "email": "mochammad.lazuardi@students.amikom.ac.id",
-      "age": 33,
-      "city": "Yogyakarta"
-    },
-    {
-      "id": 14,
-      "name": "hendy",
-      "email": "mochammad.lazuardi@students.amikom.ac.id",
-      "age": 33,
-      "city": "Jogja"
     }
   ]
 }
